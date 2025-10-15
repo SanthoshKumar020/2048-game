@@ -1,0 +1,9 @@
+Flask
+vercel-wsgi
+{
+  "functions": {
+    "2048.py": {
+      "runtime": "python3.9"
+    }
+  }
+}
